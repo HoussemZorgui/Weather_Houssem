@@ -120,7 +120,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JuanAntBuit/WeatherProject.git
+   git clone https://github.com/HoussemZorgui/Weather_Houssem.git
    ```
    
 2. Create a local.properties file in the project root if it does not exist
