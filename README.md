@@ -179,16 +179,16 @@ Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Juan Antonio Buitrago B. - juanantoniobuit@gmail.com
+Juan Antonio Buitrago B. - houssemzorgui10@gmail.com
 
-Linkedin: https://www.linkedin.com/in/juan-antonio-buitrago-balsalobre/
+Linkedin: https://www.linkedin.com/in/engineer-houssem-zorgui
 
-Project Link: [https://github.com/JuanAntBuit/WeatherProject](https://github.com/JuanAntBuit/WeatherProject)
+Project Link: [https://github.com/HoussemZorgui/Weather_Houssem](https://github.com/HoussemZorgui/Weather_Houssem)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-url]: https://github.com/JuanAntBuit/WeatherProject/blob/master/LICENSE
+[license-url]: https://github.com/HoussemZorgui/Weather_Houssem
 [product-screenshot]: images/screenshot.png
